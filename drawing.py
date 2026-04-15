@@ -78,9 +78,13 @@ def draw_line(begin, end, color="black"):
         end = Vec2(*end)
     canvas.create_line(*to_screen_coords(begin), *to_screen_coords(end), fill=color)
 
-def draw_rectangle(center, size, color="black"):
-    ld = center - Vec2(size, size) / 2
-    ru = center + Vec2(size, size) / 2
+def draw_rectangle(bottom_left_corner, sizes, color="black"):
+    if isinstance(bottom_left_corner, tuple):
+        bottom_left_corner = Vec2(*bottom_left_corner)
+    if isinstance(sizes, tuple):
+        sizes = Vec2(*sizes)
+    ld = bottom_left_corner 
+    ru = bottom_left_corner + sizes
     canvas.create_rectangle(*to_screen_coords(ld), *to_screen_coords(ru), fill=color)
 
 
@@ -103,11 +107,13 @@ def pressed(key):
 # def draw_circle(center, radius, color="black"):
 # def draw_point(center, color="black"):
 # def draw_line(begin, end, color="black"):
-# def draw_rectangle(center, size, color="black"):
+# def draw_rectangle(bottom_left_corner, sizes, color="black"):
 #
 #
 # def pressed(key):
 #     - checks if key is pressed
 #     - currently handled keys are Key.LEFT, Key.RIGHT, Key.UP, KEY.DOWN
+
+
 
 
