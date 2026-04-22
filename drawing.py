@@ -113,7 +113,3 @@ def pressed(key):
 # def pressed(key):
 #     - checks if key is pressed
 #     - currently handled keys are Key.LEFT, Key.RIGHT, Key.UP, KEY.DOWN
-
-
-
-
