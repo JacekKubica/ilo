@@ -6,4 +6,11 @@
    Napisz funkcję, która przyjmuje x i N oraz sumę N wyrazów tego ciągu
    wybranych tak, żeby być blisko x.
 
+4) Używając zawartości pliku draw.py napisz
+   funkcję, która przyjmuje funkcję f, zmienną h
+   która rysuje wykres funkcji na przedziale
+   [0, 1] poprzez łączenie liniami punktów
+   (0, f(0)), (h, f(h)), (2h, f(2h))...
+   
+
 
