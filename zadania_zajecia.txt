@@ -12,5 +12,14 @@
    [0, 1] poprzez łączenie liniami punktów
    (0, f(0)), (h, f(h)), (2h, f(2h))...
    
+5) Ustalmy H = 1 / 512. Będziemy używać funkcji
+def d(f, x):
+   return (f(x + H) - f(x)) / H.
+
+Rozważmy funkcję f(x) = x^2. Narysuj funkcję f oraz funkcje
+d(f, a) * x dla kilku różnych wartości a.
+
+6) Jak w zadaniu 4, tylko połącz liniami punkty
+   (0, f(0)), (h, f(0) + d(f, 0) * h), (h, f(0) + d(f, 0) * h + d(f, h) * h),...
 
 
