@@ -1,0 +1,4 @@
+kanapka: 2.50
+szarlotka: 1.50
+woda mineralna: 1.50
+jablko: 1.1

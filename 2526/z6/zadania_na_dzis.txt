@@ -1,0 +1,32 @@
+1) Otwórz plik tekstowy, wypisz jego zawartość.
+2) Utwórz plik tekstowy z zawartością "Umiem pisać do pliku!"
+3) Dany jest plik tekstowy (przykładowej) postaci
+kanapka: 2.50
+szarlotka: 1.50
+woda mineralna: 1.50
+Nazwy towarów mogą być wielowyrazowe, ale cena jest zawsze poprzedzona znakiem dwukropka.
+Napisz następujące funkcje
+    obliczanie ceny koszyka
+    dodawanie nowej pozycji do koszyka (na koniec)
+    usuwanie wybranej pozycji z koszyka (podajemy numer linii do usunięcia)
+    usuwanie wybranej pozycji z koszyka (podajemy nazwę towru do usunięcia)
+
+4) Dany jest dowolny plik tekstowy (proszę skopiować jakikolwiek artykuł z internetu lub napisać samodzielnie kilka zdań).
+Napisz funkcję, której argumentem jest nazwa pliku wejściowego. Funkcja ma wygenerować plik o nazwie "statystyka.txt"
+    liczba słów
+    długość najkrótszego i najdłuższego słowa
+    średnia długość słowa
+    procent występowania poszczególnych znaków
+
+Przez słowo rozumiemy ciąg liter oddzielonych białymi znakami.
+
+5) Niech A będzie alfabetem łacińskim z dołączonymi białymi znakami i znakami interpunkcyjnymi.
+Napisz następujące funkcje
+    losowanie bijekcji f: A -> A (bijekcję na zbiorze skończonym nazywamy permutacją)
+    dla podanego pliku przyjmujemy ścieżkę do pliku i tworzymy plik o nazwie encrypted.txt,
+      którego każdy znak x jest zastąpiony znakiem f(x).
+
+Przykład, na mniejszym alfabecie A = {a, b, c}. Wylosowana permutacja
+to f(a) = b, f(b) = c, f(c) = a.
+Zawartość pliku wejściowego to aabcaab, zaszywrowanego to bbcabbc.
+

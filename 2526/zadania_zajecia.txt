@@ -6,7 +6,7 @@
    Napisz funkcję, która przyjmuje x i N oraz sumę N wyrazów tego ciągu
    wybranych tak, żeby być blisko x.
 
-4) Używając zawartości pliku draw.py napisz
+4) Używając zawartości pliku drawing.py napisz
    funkcję, która przyjmuje funkcję f, zmienną h
    która rysuje wykres funkcji na przedziale
    [0, 1] poprzez łączenie liniami punktów
@@ -16,10 +16,19 @@
 def d(f, x):
    return (f(x + H) - f(x)) / H.
 
-Rozważmy funkcję f(x) = x^2. Narysuj funkcję f oraz funkcje
-d(f, a) * x dla kilku różnych wartości a.
+Rozważmy funkcję f(x) = x^2. Narysuj funkcję f 
+oraz funkcje
+f(a) + d(f, a) * (x - a) dla kilku różnych wartości a.
 
 6) Jak w zadaniu 4, tylko połącz liniami punkty
-   (0, f(0)), (h, f(0) + d(f, 0) * h), (h, f(0) + d(f, 0) * h + d(f, h) * h),...
+   (0, f(0)), 
+   (h, f(0) + d(f, 0) * h), 
+   (h, f(0) + d(f, 0) * h + d(f, h) * h),...
 
 
+
+powiedzmy, że mamy funkcję f(x)
+Jak się ma wykres f(x - a) do wykresu f(x)?
+Jak się ma wykres f(x) + b do wykresu f(x)?
+
+f(1) - f(0) = całka od 0 do 1 z f'(x) dx

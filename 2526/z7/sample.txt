@@ -1,0 +1,10 @@
+powierzchni Ziemi wyposażonych w kompasy wskazujące północ (przyjmijmy,
+że północ magnetyczna i geograficzna to to samo i że nie ma żadnych lokalnych
+anomalii). Wskazania kompasów w okolicach biegunów północnego N
+i południowego S pokazują rysunki na marginesie. Każdy z podróżników chce
+dotrzeć na biegun północny. Jeśli podróżnik nie znajduje się akurat na biegunie,
+to wie, co ma robić: wędruje wzdłuż południka, na którym się znajduje, zgodnie
+ze wskazaniem kompasu. Ale na biegunie kompas jest bezużyteczny, bo nie
+pokazuje jednego kierunku bieguny są punktami krytycznymi dla zadania
+podróżnika. Mimo to podróżnik będący na biegunie północnym umie poradzić
+sobie z zadaniem: po prostu stoi w miejscu

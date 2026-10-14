@@ -1,0 +1,27 @@
+Paradoks Banacha–Tarskiego (1924 r.). Kulę można rozłożyć na skończenie
+wiele części, z których da się zbudować dwie takie same kule.
+Rozkład w używanym tu sensie to dowolny podział figury na rozłączne części
+(niekoniecznie ma ich być skończenie wiele). Dopuszczamy zatem części
+o dowolnie dziwnych kształtach, na przykład jednopunktowe lub niemierzalne.
+Jeśli figurę A możemy rozłożyć w tym sensie na części, z których następnie
+można złożyć figurę B, to mówimy, że A i B są równoważne przez rozkład
+i oznaczamy to A ∼ B. Nietrudno sprawdzić, że rzeczywiście jest to relacja
+równoważności. Okazuje się, że takie podziały nie muszą zachowywać miar figur
+i stąd właśnie biorą się pozorne paradoksy, a dokładniej mówiąc, fakty sprzeczne
+z naszą intuicją.
+Zbiór E jest paradoksalny, jeśli zawiera rozłączne podzbiory A, B takie, że
+A ∼ E oraz B ∼ E, czyli, mówiąc obrazowo, jeśli z pewnych dwóch rozłącznych
+części zbioru możemy zbudować dwie jego pełnowartościowe kopie. Chodzi więc
+o takie rozkłady, które są sprzeczne z naszą intuicją dotyczącą pola lub objętości.
+W dalszej części tekstu rozważamy tylko rozkłady skończone.
+Po wyjaśnieniu, na czym polega problem, kolej na wskazanie narzędzi – będą
+właściwie dwa: łatanie dziur i grupa wolna.
+Łatanie dziur pokażemy na przykładzie dziury w okręgu. Rozłożymy okrąg S1
+bez punktu na dwie części, zastosujemy do nich odpowiednio dobrane obroty
+i w rezultacie uzyskamy cały okrąg. Niech T będzie brakującym punktem
+okręgu, ϕ zaś niech będzie obrotem wokół środka o ustalony kąt niewspółmierny
+z 2π. Wówczas ciąg ϕ(T ), ϕ2(T ), ϕ3(T ), . . . ∈ S1 jest nieskończony i są to różne
+punkty. Niech to będzie pierwszy z naszych dwóch zbiorów, a pozostała część
+okręgu niech będzie drugim. Zauważmy, że obrót w przeciwną stronę o ten sam
+kąt, czyli ϕ−1, przeprowadza powyższy ciąg na ciąg T, ϕ(T ), ϕ2(T ), . . ., a więc
+pozwala załatać dziurkę. Pozostała część ok

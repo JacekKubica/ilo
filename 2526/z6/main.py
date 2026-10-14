@@ -1,0 +1,5 @@
+f = open("data.txt", "r")
+# f = open("C:/Users/Jacek/Desktop/ilo/data.txt", "r")
+data = f.read()
+f.close()
+print(data)

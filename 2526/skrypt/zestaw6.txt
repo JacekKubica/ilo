@@ -1,0 +1,6 @@
+1) Napisz funkcję, która dla podanego napisu zwróci nowy napis z zamienionymi
+   małymi literami na wielkie oraz wielkimi na małe. Przydatne funkcje: isupper, upper, lower.
+2) Napisz funkcję dla podanego napisu stwierdzi, czy jest on liczbą zmiennoprzecinkową.
+   Zakładamy, że część ułamkowa może być oddzielona przecinkiem lub kropką,
+   przecinek lub kropka może też wcale nie występować. Przyadne funkcje: isdigit.
+3) Napisz funkcję, która dla podanego napisu zwróci listę słów dłuższych niż trzy litery.
