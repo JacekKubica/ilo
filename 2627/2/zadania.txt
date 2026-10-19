@@ -1,0 +1,16 @@
+1. Napisz program, który dla wprowadzonej liczby całkowitej, czy jest ona liczbą parzystą.
+2. Napisz program, który dla wprowadzonych dwóch liczb całkowitych sprawdzi, czy pierwsza jest dzielnikiem drugiej.
+3. Napisz program, który dla wprowadzonych dwóch liczb wypisze "pierwsza jest większa", "równe", "druga jest większa" w zależności od wartości wprowadzonych liczb. 
+4. Napisz program, który dla podanej liczby wypisze jej wartość bezwzględną.
+5. Napisz program, który dla podanego roku stwierdzi, czy jest on przestępny.
+6. Napisz program, który dla podanych dwóch liczb zwróci największą z nich.
+7. Napisz program, który dla podanych trzech liczb zwróci największą z nich.
+8. Napisz program, który dla wprowadzonych trzech długości sprawdzi, czy istnieje trójkąt o bokach takich długości. Przypominam, że z trzech odcinków można zbudować trójkąt tylko wtedy, gdy suma dwóch najkrótszych
+odcinków jest większa od najdłuższego odcinka.
+9. Napisz program, który dla wprowadzonych trzech długości sprawdzi, czy istnieje trójkąt prostokątny o bokach takich długości.
+
+PĘTLE
+1. Napisz program, który dla wprowadzonej liczby całkowitej wyznacza wszystkie jej dzielniki. 
+2. Napisz program, który dla wprowadzonych dwóch liczb całkowitych znajdzie ich największy wspólny dzielnik. Napisać rozwiązanie naiwne jak i używające algorytmu Euklidesa https://pl.wikipedia.org/wiki/Algorytm_Euklidesa
+3. Napisz program, który sprawdza, czy podana liczba jest pierwsza.
+4. Hipoteza Goldbaha mówi, że każda liczba parzysta większa od 2 jest sumą dwóch liczb pierwszych. Napisz program, który dla danej liczby parzystej znajduje wszystkie możliwe rozkłady na sumę dwóch liczb pierwszych. 
