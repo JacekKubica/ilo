@@ -5,12 +5,12 @@
 5. Napisz program, który dla podanego roku stwierdzi, czy jest on przestępny.
 6. Napisz program, który dla podanych dwóch liczb zwróci największą z nich.
 7. Napisz program, który dla podanych trzech liczb zwróci największą z nich.
-8. Napisz program, który dla wprowadzonych trzech długości sprawdzi, czy istnieje trójkąt o bokach takich długości. Przypominam, że z trzech odcinków można zbudować trójkąt tylko wtedy, gdy suma dwóch najkrótszych
+DOM 8. Napisz program, który dla wprowadzonych trzech długości sprawdzi, czy istnieje trójkąt o bokach takich długości. Przypominam, że z trzech odcinków można zbudować trójkąt tylko wtedy, gdy suma dwóch najkrótszych
 odcinków jest większa od najdłuższego odcinka.
-9. Napisz program, który dla wprowadzonych trzech długości sprawdzi, czy istnieje trójkąt prostokątny o bokach takich długości.
+DOM 9. Napisz program, który dla wprowadzonych trzech długości sprawdzi, czy istnieje trójkąt prostokątny o bokach takich długości.
 
 PĘTLE
 1. Napisz program, który dla wprowadzonej liczby całkowitej wyznacza wszystkie jej dzielniki. 
-2. Napisz program, który dla wprowadzonych dwóch liczb całkowitych znajdzie ich największy wspólny dzielnik. Napisać rozwiązanie naiwne jak i używające algorytmu Euklidesa https://pl.wikipedia.org/wiki/Algorytm_Euklidesa
-3. Napisz program, który sprawdza, czy podana liczba jest pierwsza.
-4. Hipoteza Goldbaha mówi, że każda liczba parzysta większa od 2 jest sumą dwóch liczb pierwszych. Napisz program, który dla danej liczby parzystej znajduje wszystkie możliwe rozkłady na sumę dwóch liczb pierwszych. 
+DOM 2. Napisz program, który dla wprowadzonych dwóch liczb całkowitych znajdzie ich największy wspólny dzielnik. Napisać rozwiązanie naiwne jak i używające algorytmu Euklidesa https://pl.wikipedia.org/wiki/Algorytm_Euklidesa
+DOM 3. Napisz program, który sprawdza, czy podana liczba jest pierwsza.
+4. Hipoteza Goldbacha mówi, że każda liczba parzysta większa od 2 jest sumą dwóch liczb pierwszych. Napisz program, który dla danej liczby parzystej znajduje wszystkie możliwe rozkłady na sumę dwóch liczb pierwszych. 
