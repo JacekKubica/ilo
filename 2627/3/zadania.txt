@@ -1,0 +1,32 @@
+PĘTLE:
+1. Napisz program, który dla wprowadzonego n wypisze n elementów ciągu Fibonacciego.
+
+2. Napisz program, który wypisze tabliczkę mnożenia
+
+* 1 2 3 ... 9
+1 1 2 3 ... 9
+2 2 4 6 ... 18
+...   ...
+9 9
+
+3. Napisz program, który dla wprowadzonej liczby całkowitej n wypisze kwadrat n x n znaku *.
+Np. dla n = 3 ma wypisać
+***
+***
+***
+
+4. Napisz program, który ponadto dla wprowadzonego r wypisze # jeśli zadana współrzędna
+(i, j) ma odległość od ((n - 1) // 2, (n - 1) // 2) mniejszą niż r, # w przeciwnym przypadku
+
+
+
+LISTY:
+1. Napisz program, który dla wprowadzonych liczb n, x wylosuje listę, która ma n elementów z zakresu 1,...,x.
+W poniższych zadaniach input i losowanie zostaje takie samo, do listy odnosimy się jako do "wylosowanej listy".
+2. Napisz program, który policzy sumę elementów w wylosowanej liście.
+3. Napisz program, który dla podanego elementu a wypisze, ile razy występuje on w wylosowanej liście.
+4. Napisz program, który znajdzie maksimum i minimum wylosowanej listy.
+5. Napisz program, który dla wylosowanej listy utworzy nową listę, która jest odwróconą wylosowaną listą.
+6. Napisz program, który odwróci wylosowaną listę (bez tworzenia nowej).
+7. Napisz program, który wylosowaną listę posortuje przy użyciu sortowania bąbelkowego.
+8. Napisz program, który zaimplementuję grę w kółko i krzyżyk na planszy 3x3.
