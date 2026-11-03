@@ -1,0 +1,61 @@
+INSTRUKCJE WARUNKOWE:
+1. Wczytaj liczbę całkowitą. Jeśli jest podzielna przez 3 i 5, wypisz "TrzyPięć". 
+   Jeśli tylko przez 3, wypisz "Trzy"; tylko przez 5 to "Pięć". W pozostałym 
+   przypadku wypisz ":("
+2. Dla wprowadzonej liczby wypisz liczbę powstałą z jej ostatnich trzech cyfr
+   i wypisz, czy utworzona liczba jest większa niż 50.
+3. Dla wprowadzonej liczby punktów wypisz ocenę studenta:
+   0-50: 2
+   50-60: 3
+   60-70: 3.5
+   70-80: 4
+   80-90: 4.5
+   90-100: 5
+   inne: "Niepoprawny wynik"
+
+
+PĘTLE:
+1. Napisz program, który dla wprowadzonego n narysuje kwadrat według poniższego
+wzorca o boku n, na przykład dla n = 8:
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+# # # # # # # #
+2. Napisz program, który dla wprowadzonego n wypisze zamiast tego
+# * * * * * * *
+# # * * * * * *
+# # # * * * * *
+# # # # * * * *
+# # # # # * * *
+# # # # # # * *
+# # # # # # # *
+# # # # # # # #
+
+3. Napisz program, który policzy pierwiastek z wprowadzonej liczby x przy użyciu
+   n podstawień (n też wprowadzone) postaci
+   y = (y + x / y) / 2
+   (na początku można dać y = x).
+   Porównaj wynik z x ** (.5) (operator pierwiastkowania w pythonie).
+
+
+LISTY:
+1. Napisz program, który dla wprowadzonych liczb n, x wylosuje listę, która ma n elementów z zakresu 1,...,x.
+W poniższych zadaniach input i losowanie zostaje takie samo, do listy odnosimy się jako do "wylosowanej listy".
+2. Napisz program, który policzy sumę elementów w wylosowanej liście.
+3. Napisz program, który dla podanego elementu a wypisze, ile razy występuje on w wylosowanej liście.
+4. Napisz program, który znajdzie maksimum i minimum wylosowanej listy.
+5. Napisz program, który dla wylosowanej listy utworzy nową listę, która jest odwróconą wylosowaną listą.
+6. Napisz program, który odwróci wylosowaną listę (bez tworzenia nowej).
+7. Napisz program, który wylosowaną listę posortuje przy użyciu sortowania bąbelkowego.
+8. Napisz program, który zaimplementuję grę w kółko i krzyżyk na planszy 3x3.
+
+
+ŁAŃCUCHY TEKSTOWE:
+1. Dla wprowadzonego napisu wypisz go wielkimi literami.
+2. Dla wprowadzonego zdania wypisz, ile ma ono słów.
+3. Wprowadź zdanie a następnie słowo. 
+   Wypisz, czy słowo to występuje w zdaniu i jeśli tak, to na którym miescu.

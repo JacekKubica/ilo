@@ -1,11 +1,3 @@
-1. Napisz program, który dla wprowadzonej liczby wypisze, czy jest ona większa niż 5.
-2. Napisz program, który dla wprowadzonej liczby obliczy sumę 1 + 2 + ... + n 
-3. Jak wyżej, tylko sumy 1 + 3 + 5 + ... + (ostatnia nieparzysta <= n).
-4. Jak wyżej, ale suma parzystych.
-5. Napisz program, który dla wprowadzonego n, r wypisze sumę 1 / 1 + 1 / 2 + 1 / 3 + ... + 1 / n i wypisze, czy suma ta jest większa niż r.
-
-
-
 PĘTLE:
 1. Napisz program, który dla wprowadzonego n wypisze n elementów ciągu Fibonacciego.
 
@@ -38,7 +30,3 @@ W poniższych zadaniach input i losowanie zostaje takie samo, do listy odnosimy 
 6. Napisz program, który odwróci wylosowaną listę (bez tworzenia nowej).
 7. Napisz program, który wylosowaną listę posortuje przy użyciu sortowania bąbelkowego.
 8. Napisz program, który zaimplementuję grę w kółko i krzyżyk na planszy 3x3.
-
-
-
-https://github.com/JacekKubica/ilo
