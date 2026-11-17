@@ -1,0 +1,18 @@
+
+PĘTLE:
+1. Napisz program, który dla wprowadzonych liczb n, m wypisze wszystkie pary i, j takie, że i < n, i dzieli n, j < m, j dzieli m.
+2. Napisz program, który dla wprowadzonych liczb n, t wypisze na ile sposobów liczby 1,...,n da się posumować do t.
+3. Dla podanej liczby wypisz, ile ma ona cyfr.
+4. Mamy podaną zasadę:
+Jeśli x jest parzyste, dzielimy przez 2.
+Jeśli jest nieparzyste, mnożymy przez 3 i dodajemy 1.
+Dla wprowadzonej liczby n wypisz, ile razy musimy zastosować powyższą zasadę, żeby dostać 1.
+
+
+ŁAŃCUCHY TEKSTOWE:
+1. Dla wprowadzonego napisu wypisz go wielkimi literami.
+2. Dla wprowadzonego zdania wypisz, ile ma ono słów.
+3. Wprowadź zdanie a następnie słowo. 
+   Wypisz, czy słowo to występuje w zdaniu i jeśli tak, to na którym miescu.
+4. Napisz program, który przekształci wprowadzony napis postaci jakas_dluga_nazwa na jakasDlugaNazwa.
+5. Napisz program, który skleja napis z wszystkich napisów wprowadzanych przez użytkownika, aż użytkownik nie wprowadzi napisu KONIEC. Wypisać sklejony napis.

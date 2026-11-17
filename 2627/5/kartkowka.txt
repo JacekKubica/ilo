@@ -1,0 +1,12 @@
+1. Napisz program, który dla wprowadzonej liczby całkowitej
+   wypisze, czy jest ona podzielna przez 2 ale nie przez 3,
+   przez 3 ale nie przez 2, czy przez 6 czy ani nie przez dwa,
+   ani nie przez 3.
+2. Napisz program, który wczyta trzy liczby całkowite
+   b, x, n; b to nasz budżet, x cena jednostki,
+   n to to, ile jednostek chcemy kupić. Wypisz,
+   czy jesteśmy w stanie kupić tyle jednostek ile chcemy,
+   czy nie.
+3. Jak wyżej, ale wprowadzamy tylko b oraz x i mamy znaleźć
+   maksymalną liczbę jednostek, które jesteśmy w stanie kupić.
+4. Dla podanej liczby n wypisać sumę dzielników tej liczby.
