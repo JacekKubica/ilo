@@ -2,3 +2,12 @@
 2. Napisz program, który odwróci wylosowaną listę (bez tworzenia nowej).
 3. Napisz program, który wylosowaną listę posortuje przy użyciu sortowania bąbelkowego.
 4. Dla wprowadzonego napisu i wprowadzonego znaku wypisz ile razy podany znak występuje w napisie.
+5. Napisz program, który dla wprowadzonego n utworzy łańcuch tekstowy zawierający podany kwadrat o boku n.
+# * * * * * * *
+# # * * * * * *
+# # # * * * * *
+# # # # * * * *
+# # # # # * * *
+# # # # # # * *
+# # # # # # # *
+# # # # # # # #
