@@ -1,0 +1,4 @@
+1. Napisz program, który dla wylosowanej listy utworzy nową listę, która jest odwróconą wylosowaną listą.
+2. Napisz program, który odwróci wylosowaną listę (bez tworzenia nowej).
+3. Napisz program, który wylosowaną listę posortuje przy użyciu sortowania bąbelkowego.
+4. Dla wprowadzonego napisu i wprowadzonego znaku wypisz ile razy podany znak występuje w napisie.

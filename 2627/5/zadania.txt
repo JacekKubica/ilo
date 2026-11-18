@@ -16,3 +16,8 @@ Dla wprowadzonej liczby n wypisz, ile razy musimy zastosować powyższą zasadę
    Wypisz, czy słowo to występuje w zdaniu i jeśli tak, to na którym miescu.
 4. Napisz program, który przekształci wprowadzony napis postaci jakas_dluga_nazwa na jakasDlugaNazwa.
 5. Napisz program, który skleja napis z wszystkich napisów wprowadzanych przez użytkownika, aż użytkownik nie wprowadzi napisu KONIEC. Wypisać sklejony napis.
+
+
+
+
+
